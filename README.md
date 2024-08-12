@@ -20,5 +20,5 @@ This repository contains code and analysis for a machine learning model aimed at
   - increased neurons by a significant amount at each layer
 
 ### Summary
-Overall, the model indicates that a successful campaign will be 79% likely if an organization runs at least 5 campaigns total under the application types of T3, T4, T5, T6, T19, 
+Overall, the model indicates that a successful campaign will be 79% likely if an organization runs at least 10 campaigns total under the application types of T3, T4, T5, T6, T19, 
 has a classificiation of C1000, C1200, C2000, C2100 or C3000. Additional models that could be explored are smaller models segemented by ask amount of the campaign since smaller asks and larger asks may have different success rates and require analysis of the application types and classifications used in those categories. With this in mind, focused logistic regression models could be utilized to select specific data points against one another to compare success rate with a specific variable.
